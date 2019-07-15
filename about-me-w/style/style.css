@@ -1,0 +1,16 @@
+.na-img-box {
+	border-radius:100%;
+	width:120px;
+	height:120px;
+	overflow:hidden;
+	margin:auto;
+	float:none;
+}
+.wp_widget_plugin_box img {
+	width:100%;
+	height:auto;
+}
+
+.wp_widget_plugin_box {
+	text-align:center;
+}
